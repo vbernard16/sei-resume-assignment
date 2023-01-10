@@ -10,5 +10,8 @@
   "license": "ISC",
   "bin": {
     "your-command-here": "./index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
 }
